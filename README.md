@@ -1,5 +1,8 @@
 # 💫 About Me:
-First-year engineering student in France<br>Mainly doing Python, Web front/back-end and Arduino projects<br>Speaks French, English (some German too)
+First-year engineering student in France (studying mainly mathematics and physics for the moment) with the ambition to major in computer science/electronics.<br>
+Mainly doing Python, Web front/back-end and Arduino projects mostly for personal purposes as well as some school/"professional" projects. As long as I have fun doing it, I'm all in !<br>
+Open to any proposal of small projects that could make me progress<br>
+Speaks French, English (some German too)
 
 
 ## 🌐 Socials:
